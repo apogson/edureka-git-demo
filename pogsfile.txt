@@ -1,1 +1,3 @@
-Hi, this is pog's first text file.
+Hi, this is Pog's first text file.
+
+
